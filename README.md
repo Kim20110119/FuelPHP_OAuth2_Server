@@ -6,9 +6,8 @@
 
 ## 使う認証パッケージ:【Sentry】
 
-## 各エンドポイントの説明
+## 各エンドポイントの説明  
 
-- 設定ファイルのStrategyの中身を変種する。プロバイダ名を指定する  
   【Authorizationエンドポイント】：http://××××××××/fuelphp/oauth/index（aUrl）  
   【Tokenエンドポイント】：http://××××××××/oauth/access_token（tUrl）  
   【UserInfoエンドポイント】：http://××××××××/oauth/attribute(uUrl)  
