@@ -1,4 +1,4 @@
-# OAuth2.0サーバーのダミーページ(OpenID Connectプロトコル利用)
+# OAuth2.0サーバーのダミーページ
 
 ## 使うライブラリOAuth2 Server PHP参考サイト
 
